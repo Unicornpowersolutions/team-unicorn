@@ -1,0 +1,220 @@
+[17-Jan-2023 12:18:01 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in C:\Users\user\Local Sites\myfirstsite\app\public\wp-admin\includes\class-theme-upgrader.php on line 160
+[17-Jan-2023 12:18:42 UTC] PHP Warning:  Undefined array key "id" in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\themes\ona\freemius\templates\connect\permission.php on line 29
+[17-Jan-2023 12:18:42 UTC] PHP Warning:  Undefined array key "id" in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\themes\ona\freemius\templates\connect\permission.php on line 29
+[17-Jan-2023 12:18:42 UTC] PHP Warning:  Undefined array key "id" in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\themes\ona\freemius\templates\connect\permission.php on line 30
+[17-Jan-2023 12:28:55 UTC] PHP Warning:  Undefined array key "url" in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\plugins\elementor\includes\template-library\classes\class-import-images.php on line 199
+[17-Jan-2023 17:17:43 UTC] PHP Warning:  Undefined variable $cart_items_number in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\plugins\chatbot\templates\template-01\template.php on line 63
+[17-Jan-2023 17:20:42 UTC] PHP Warning:  Undefined variable $cart_items_number in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\plugins\chatbot\templates\template-01\template.php on line 63
+[17-Jan-2023 17:21:36 UTC] PHP Warning:  Undefined variable $cart_items_number in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\plugins\chatbot\templates\template-01\template.php on line 63
+[17-Jan-2023 17:22:47 UTC] PHP Warning:  Undefined variable $cart_items_number in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\plugins\chatbot\templates\template-01\template.php on line 63
+[17-Jan-2023 17:25:29 UTC] PHP Warning:  Undefined variable $cart_items_number in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\plugins\chatbot\templates\template-01\template.php on line 63
+[17-Jan-2023 17:26:09 UTC] PHP Warning:  Undefined variable $cart_items_number in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\plugins\chatbot\templates\template-01\template.php on line 63
+[17-Jan-2023 17:30:23 UTC] PHP Warning:  Undefined variable $cart_items_number in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\plugins\chatbot\templates\template-01\template.php on line 63
+[18-Jan-2023 04:42:30 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[18-Jan-2023 04:42:30 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[18-Jan-2023 08:09:33 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[21-Jan-2023 03:38:23 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[21-Jan-2023 03:38:23 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[21-Jan-2023 03:38:29 UTC] Cron reschedule event error for hook: wp_version_check, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"twicedaily","args":[],"interval":43200}
+[21-Jan-2023 06:33:13 UTC] Sync process for Gutenberg Blocks has started.
+[21-Jan-2023 06:33:13 UTC] CATEGORY:Importing categories..
+[21-Jan-2023 06:33:13 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[21-Jan-2023 06:33:13 UTC] CATEGORY:Completed category import.
+[21-Jan-2023 06:33:13 UTC] BLOCK: Getting Total Blocks
+[21-Jan-2023 06:33:13 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[21-Jan-2023 06:33:13 UTC] BLOCK: Requests count 4
+[21-Jan-2023 06:33:13 UTC] BLOCK: Importing request 1 ..
+[21-Jan-2023 06:33:13 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[21-Jan-2023 06:33:14 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[21-Jan-2023 06:33:14 UTC] BLOCK: Completed request 1
+[21-Jan-2023 06:33:14 UTC] BLOCK: Importing request 2 ..
+[21-Jan-2023 06:33:14 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[21-Jan-2023 06:33:14 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[21-Jan-2023 06:33:14 UTC] BLOCK: Completed request 2
+[21-Jan-2023 06:33:14 UTC] BLOCK: Importing request 3 ..
+[21-Jan-2023 06:33:14 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[21-Jan-2023 06:33:14 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[21-Jan-2023 06:33:14 UTC] BLOCK: Completed request 3
+[21-Jan-2023 06:33:14 UTC] BLOCK: Importing request 4 ..
+[21-Jan-2023 06:33:14 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[21-Jan-2023 06:33:14 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[21-Jan-2023 06:33:14 UTC] BLOCK: Completed request 4
+[21-Jan-2023 06:33:14 UTC] SITE: Getting Total Sites
+[21-Jan-2023 06:33:14 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[21-Jan-2023 06:33:14 UTC] SITE: Request count 2
+[21-Jan-2023 06:33:14 UTC] SITE: Importing request 1 ..
+[21-Jan-2023 06:33:14 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[21-Jan-2023 06:33:14 UTC] SITE: Storing in option ast-block-templates-sites-1
+[21-Jan-2023 06:33:14 UTC] SITE: Completed request 1
+[21-Jan-2023 06:33:14 UTC] SITE: Importing request 2 ..
+[21-Jan-2023 06:33:14 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[21-Jan-2023 06:33:15 UTC] SITE: Storing in option ast-block-templates-sites-2
+[21-Jan-2023 06:33:15 UTC] SITE: Completed request 2
+[21-Jan-2023 06:33:15 UTC] Sync process for Gutenberg Blocks is done.
+[25-Jan-2023 05:03:33 UTC] PHP Warning:  Attempt to read property "post_title" on null in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\plugins\elementor\includes\widgets\image-carousel.php on line 1003
+[25-Jan-2023 05:04:03 UTC] PHP Warning:  Attempt to read property "post_title" on null in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\plugins\elementor\includes\widgets\image-carousel.php on line 1003
+[28-Jan-2023 06:26:10 UTC] Sync process for Gutenberg Blocks has started.
+[28-Jan-2023 06:26:10 UTC] CATEGORY:Importing categories..
+[28-Jan-2023 06:26:10 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[28-Jan-2023 06:26:10 UTC] CATEGORY:Completed category import.
+[28-Jan-2023 06:26:10 UTC] BLOCK: Getting Total Blocks
+[28-Jan-2023 06:26:10 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[28-Jan-2023 06:26:10 UTC] BLOCK: Requests count 4
+[28-Jan-2023 06:26:10 UTC] BLOCK: Importing request 1 ..
+[28-Jan-2023 06:26:10 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[28-Jan-2023 06:26:10 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[28-Jan-2023 06:26:10 UTC] BLOCK: Completed request 1
+[28-Jan-2023 06:26:10 UTC] BLOCK: Importing request 2 ..
+[28-Jan-2023 06:26:10 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[28-Jan-2023 06:26:11 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[28-Jan-2023 06:26:11 UTC] BLOCK: Completed request 2
+[28-Jan-2023 06:26:11 UTC] BLOCK: Importing request 3 ..
+[28-Jan-2023 06:26:11 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[28-Jan-2023 06:26:11 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[28-Jan-2023 06:26:11 UTC] BLOCK: Completed request 3
+[28-Jan-2023 06:26:11 UTC] BLOCK: Importing request 4 ..
+[28-Jan-2023 06:26:11 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[28-Jan-2023 06:26:11 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[28-Jan-2023 06:26:11 UTC] BLOCK: Completed request 4
+[28-Jan-2023 06:26:11 UTC] SITE: Getting Total Sites
+[28-Jan-2023 06:26:11 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[28-Jan-2023 06:26:11 UTC] SITE: Request count 2
+[28-Jan-2023 06:26:11 UTC] SITE: Importing request 1 ..
+[28-Jan-2023 06:26:11 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[28-Jan-2023 06:26:12 UTC] SITE: Storing in option ast-block-templates-sites-1
+[28-Jan-2023 06:26:12 UTC] SITE: Completed request 1
+[28-Jan-2023 06:26:12 UTC] SITE: Importing request 2 ..
+[28-Jan-2023 06:26:12 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[28-Jan-2023 06:26:12 UTC] SITE: Storing in option ast-block-templates-sites-2
+[28-Jan-2023 06:26:12 UTC] SITE: Completed request 2
+[28-Jan-2023 06:26:12 UTC] Sync process for Gutenberg Blocks is done.
+[28-Jan-2023 06:45:41 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1189
+[28-Jan-2023 06:45:41 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\class-wp-fatal-error-handler.php on line 74
+[28-Jan-2023 06:45:47 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1189
+[28-Jan-2023 06:45:47 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\class-wp-fatal-error-handler.php on line 74
+[28-Jan-2023 06:45:55 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1185
+[28-Jan-2023 06:45:55 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\functions.php on line 4802
+[28-Jan-2023 06:46:21 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1189
+[28-Jan-2023 06:46:21 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\class-wp-fatal-error-handler.php on line 74
+[28-Jan-2023 06:46:37 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1189
+[28-Jan-2023 06:46:37 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\class-wp-fatal-error-handler.php on line 74
+[28-Jan-2023 06:47:01 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1189
+[28-Jan-2023 06:47:01 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\class-wp-fatal-error-handler.php on line 74
+[28-Jan-2023 06:47:12 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1189
+[28-Jan-2023 06:47:12 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\class-wp-fatal-error-handler.php on line 74
+[28-Jan-2023 06:47:35 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1185
+[28-Jan-2023 06:47:35 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\functions.php on line 4802
+[28-Jan-2023 06:48:25 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1189
+[28-Jan-2023 06:48:25 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\class-wp-fatal-error-handler.php on line 74
+[28-Jan-2023 06:50:05 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1185
+[28-Jan-2023 06:50:05 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\functions.php on line 4802
+[28-Jan-2023 06:50:38 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1189
+[28-Jan-2023 06:50:38 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\class-wp-fatal-error-handler.php on line 74
+[28-Jan-2023 06:51:22 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1185
+[28-Jan-2023 06:51:22 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\functions.php on line 4802
+[28-Jan-2023 06:53:22 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1185
+[28-Jan-2023 06:53:22 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\functions.php on line 4802
+[28-Jan-2023 07:55:20 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1189
+[28-Jan-2023 07:55:20 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\class-wp-fatal-error-handler.php on line 74
+[28-Jan-2023 07:55:36 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1189
+[28-Jan-2023 07:55:36 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\class-wp-fatal-error-handler.php on line 74
+[28-Jan-2023 07:57:12 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1185
+[28-Jan-2023 07:57:12 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\functions.php on line 4802
+[28-Jan-2023 08:06:35 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1189
+[28-Jan-2023 08:06:35 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\class-wp-fatal-error-handler.php on line 74
+[28-Jan-2023 08:06:42 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1189
+[28-Jan-2023 08:06:42 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\class-wp-fatal-error-handler.php on line 74
+[28-Jan-2023 08:08:29 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1185
+[28-Jan-2023 08:08:29 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\functions.php on line 4802
+[28-Jan-2023 08:09:11 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1189
+[28-Jan-2023 08:09:11 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\class-wp-fatal-error-handler.php on line 74
+[28-Jan-2023 08:09:27 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1185
+[28-Jan-2023 08:09:27 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\functions.php on line 4802
+[28-Jan-2023 08:09:52 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1185
+[28-Jan-2023 08:09:52 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\functions.php on line 4802
+[28-Jan-2023 08:10:01 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1185
+[28-Jan-2023 08:10:01 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\functions.php on line 4802
+[28-Jan-2023 08:10:15 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1185
+[28-Jan-2023 08:10:15 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\functions.php on line 4802
+[28-Jan-2023 08:10:33 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\meta.php on line 1185
+[28-Jan-2023 08:10:33 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\user\Local Sites\myfirstsite\app\public\wp-includes\class-wp-fatal-error-handler.php on line 74
+[30-Jan-2023 09:48:25 UTC] Sync process for Gutenberg Blocks has started.
+[30-Jan-2023 09:48:25 UTC] CATEGORY:Importing categories..
+[30-Jan-2023 09:48:25 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[30-Jan-2023 09:48:25 UTC] CATEGORY:Completed category import.
+[30-Jan-2023 09:48:25 UTC] BLOCK: Getting Total Blocks
+[30-Jan-2023 09:48:25 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[30-Jan-2023 09:48:25 UTC] BLOCK: Requests count 4
+[30-Jan-2023 09:48:25 UTC] BLOCK: Importing request 1 ..
+[30-Jan-2023 09:48:25 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[30-Jan-2023 09:48:25 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[30-Jan-2023 09:48:25 UTC] BLOCK: Completed request 1
+[30-Jan-2023 09:48:25 UTC] BLOCK: Importing request 2 ..
+[30-Jan-2023 09:48:25 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[30-Jan-2023 09:48:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[30-Jan-2023 09:48:26 UTC] BLOCK: Completed request 2
+[30-Jan-2023 09:48:26 UTC] BLOCK: Importing request 3 ..
+[30-Jan-2023 09:48:26 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[30-Jan-2023 09:48:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[30-Jan-2023 09:48:26 UTC] BLOCK: Completed request 3
+[30-Jan-2023 09:48:26 UTC] BLOCK: Importing request 4 ..
+[30-Jan-2023 09:48:26 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[30-Jan-2023 09:48:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[30-Jan-2023 09:48:26 UTC] BLOCK: Completed request 4
+[30-Jan-2023 09:48:26 UTC] SITE: Getting Total Sites
+[30-Jan-2023 09:48:26 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[30-Jan-2023 09:48:26 UTC] SITE: Request count 2
+[30-Jan-2023 09:48:26 UTC] SITE: Importing request 1 ..
+[30-Jan-2023 09:48:26 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[30-Jan-2023 09:48:26 UTC] SITE: Storing in option ast-block-templates-sites-1
+[30-Jan-2023 09:48:26 UTC] SITE: Completed request 1
+[30-Jan-2023 09:48:26 UTC] SITE: Importing request 2 ..
+[30-Jan-2023 09:48:26 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[30-Jan-2023 09:48:26 UTC] SITE: Storing in option ast-block-templates-sites-2
+[30-Jan-2023 09:48:26 UTC] SITE: Completed request 2
+[30-Jan-2023 09:48:26 UTC] Sync process for Gutenberg Blocks is done.
+[31-Jan-2023 04:02:35 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[31-Jan-2023 09:55:56 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[01-Feb-2023 04:33:37 UTC] PHP Warning:  Undefined array key "url" in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\plugins\wpforms-lite\src\Forms\IconChoices.php on line 124
+[01-Feb-2023 04:33:37 UTC] PHP Warning:  Undefined array key "path" in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\plugins\wpforms-lite\src\Forms\IconChoices.php on line 125
+[01-Feb-2023 05:37:29 UTC] PHP Warning:  Unknown: Input variables exceeded 4000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[01-Feb-2023 05:37:32 UTC] PHP Warning:  Undefined array key "column" in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\plugins\elementor\core\logger\items\js.php on line 16
+[01-Feb-2023 05:37:32 UTC] PHP Warning:  Undefined array key "url" in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\plugins\elementor\core\logger\items\js.php on line 17
+[01-Feb-2023 07:04:24 UTC] Sync process for Gutenberg Blocks has started.
+[01-Feb-2023 07:04:24 UTC] CATEGORY:Importing categories..
+[01-Feb-2023 07:04:24 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[01-Feb-2023 07:04:24 UTC] CATEGORY:Completed category import.
+[01-Feb-2023 07:04:24 UTC] BLOCK: Getting Total Blocks
+[01-Feb-2023 07:04:24 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[01-Feb-2023 07:04:25 UTC] BLOCK: Requests count 4
+[01-Feb-2023 07:04:25 UTC] BLOCK: Importing request 1 ..
+[01-Feb-2023 07:04:25 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[01-Feb-2023 07:04:25 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[01-Feb-2023 07:04:25 UTC] BLOCK: Completed request 1
+[01-Feb-2023 07:04:25 UTC] BLOCK: Importing request 2 ..
+[01-Feb-2023 07:04:25 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[01-Feb-2023 07:04:25 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[01-Feb-2023 07:04:25 UTC] BLOCK: Completed request 2
+[01-Feb-2023 07:04:25 UTC] BLOCK: Importing request 3 ..
+[01-Feb-2023 07:04:25 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[01-Feb-2023 07:04:25 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[01-Feb-2023 07:04:25 UTC] BLOCK: Completed request 3
+[01-Feb-2023 07:04:25 UTC] BLOCK: Importing request 4 ..
+[01-Feb-2023 07:04:25 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[01-Feb-2023 07:04:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[01-Feb-2023 07:04:26 UTC] BLOCK: Completed request 4
+[01-Feb-2023 07:04:26 UTC] SITE: Getting Total Sites
+[01-Feb-2023 07:04:26 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[01-Feb-2023 07:04:26 UTC] SITE: Request count 2
+[01-Feb-2023 07:04:26 UTC] SITE: Importing request 1 ..
+[01-Feb-2023 07:04:26 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[01-Feb-2023 07:04:26 UTC] SITE: Storing in option ast-block-templates-sites-1
+[01-Feb-2023 07:04:26 UTC] SITE: Completed request 1
+[01-Feb-2023 07:04:26 UTC] SITE: Importing request 2 ..
+[01-Feb-2023 07:04:26 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[01-Feb-2023 07:04:26 UTC] SITE: Storing in option ast-block-templates-sites-2
+[01-Feb-2023 07:04:26 UTC] SITE: Completed request 2
+[01-Feb-2023 07:04:26 UTC] Sync process for Gutenberg Blocks is done.
+[01-Feb-2023 10:58:42 UTC] PHP Warning:  file_put_contents(C:\Users\user\Local Sites\myfirstsite\app\public/wp-content/uploads/.htaccess): Failed to open stream: Permission denied in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\plugins\wp-optimize\includes\class-wp-optimize-htaccess.php on line 135
+[01-Feb-2023 10:58:42 UTC] PHP Warning:  file_put_contents(C:\Users\user\Local Sites\myfirstsite\app\public/wp-content/uploads/.htaccess): Failed to open stream: Permission denied in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\plugins\wp-optimize\includes\class-wp-optimize-htaccess.php on line 135
+[01-Feb-2023 10:58:42 UTC] PHP Warning:  file_put_contents(C:\Users\user\Local Sites\myfirstsite\app\public/wp-content/uploads/.htaccess): Failed to open stream: Permission denied in C:\Users\user\Local Sites\myfirstsite\app\public\wp-content\plugins\wp-optimize\includes\class-wp-optimize-htaccess.php on line 135

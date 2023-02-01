@@ -1,0 +1,87 @@
+#easy-sticky-sidebar-1.easy-sticky-sidebar {
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px){#easy-sticky-sidebar-1.easy-sticky-sidebar {
+}
+
+}@media screen and (max-width: 767px){#easy-sticky-sidebar-1.easy-sticky-sidebar {
+}
+
+}#easy-sticky-sidebar-1.easy-sticky-sidebar .sticky-sidebar-button {
+	color: #fff;
+	font-family: 'Open Sans';
+	font-size: 20px;
+	text-align: left;
+	background-color: #4e0d61;
+}
+
+#easy-sticky-sidebar-1.easy-sticky-sidebar .sticky-sidebar-image {
+	background-image: url(http://myfirstsite.local/wp-content/uploads/2023/01/ss_dummy.jpg);
+}
+
+#easy-sticky-sidebar-1.easy-sticky-sidebar .sticky-sidebar-text {
+	color: #fff;
+	font-family: 'Open Sans';
+	font-size: 25px;
+}
+
+#easy-sticky-sidebar-1.easy-sticky-sidebar .sticky-sidebar-content hr {
+	background-color: #fff;
+}
+
+#easy-sticky-sidebar-1.easy-sticky-sidebar .sticky-sidebar-call-to-action {
+	color: #fff;
+	font-family: 'Open Sans';
+	font-size: 19px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px){.easy-sticky-sidebar.easy-sticky-sidebar-1 {
+}
+
+}@media screen and (max-width: 767px){.easy-sticky-sidebar.easy-sticky-sidebar-1 {
+}
+
+}#easy-sticky-sidebar-2.easy-sticky-sidebar {
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px){#easy-sticky-sidebar-2.easy-sticky-sidebar {
+}
+
+}@media screen and (max-width: 767px){#easy-sticky-sidebar-2.easy-sticky-sidebar {
+}
+
+}#easy-sticky-sidebar-2.easy-sticky-sidebar .sticky-sidebar-button {
+	color: #fff;
+	font-family: 'Open Sans';
+	font-size: 20px;
+	text-align: left;
+	background-color: #4e0d61;
+}
+
+#easy-sticky-sidebar-2.easy-sticky-sidebar .sticky-sidebar-image {
+	background-image: url(http://myfirstsite.local/wp-content/uploads/2023/01/ss_dummy.jpg);
+}
+
+#easy-sticky-sidebar-2.easy-sticky-sidebar .sticky-sidebar-text {
+	color: #fff;
+	font-family: 'Open Sans';
+	font-size: 25px;
+}
+
+#easy-sticky-sidebar-2.easy-sticky-sidebar .sticky-sidebar-content hr {
+	background-color: #fff;
+}
+
+#easy-sticky-sidebar-2.easy-sticky-sidebar .sticky-sidebar-call-to-action {
+	color: #fff;
+	font-family: 'Open Sans';
+	font-size: 19px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px){.easy-sticky-sidebar.easy-sticky-sidebar-2 {
+}
+
+}@media screen and (max-width: 767px){.easy-sticky-sidebar.easy-sticky-sidebar-2 {
+}
+
+}
